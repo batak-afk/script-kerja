@@ -1,0 +1,2 @@
+# script-kerja
+gak dibagikan
