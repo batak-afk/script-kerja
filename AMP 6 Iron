@@ -1,0 +1,315 @@
+
+
+
+
+
+<!doctype html>
+  <html amp lang="id">
+  <head><style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      }
+      @-webkit-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-moz-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-ms-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-o-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+    </style>
+    <meta charset="UTF-8">
+    <noscript>
+                     <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none;
+        }
+                                    </style>
+    </noscript>
+    <meta property="og:title" content="IRONSLOT : Situs Judi Online Terbaru Paten Kali Kemenangan Maksimal Dijamin">
+    <meta property="og:description" content="Barbarslot jadi perbincangan! Situs judi online terbaru ini disebut punya peluang kemenangan maksimal yang bikin pemain betah. Coba sekarang dan rasakan sensasinya di barbarslot.">
+    <meta property="og:site_name" content="IRONSLOT">	
+    <meta property="og:author" content="IRONSLOT">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <title>IRONSLOT : Situs Judi Online Terbaru Paten Kali Kemenangan Maksimal Dijamin</title>
+    <link rel="canonical" href="https://norakle.com/">
+    <meta property="og:url" content="https://norakle.com/" />
+    <link rel="shortcut icon" href="https://lakewoodchamber.org/website-advertising/favicon.ico">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+    <meta name="description" content="Barbarslot jadi perbincangan! Situs judi online terbaru ini disebut punya peluang kemenangan maksimal yang bikin pemain betah. Coba sekarang dan rasakan sensasinya di barbarslot.">
+    <meta name="robots" content="index, follow">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta content="id" name="language">
+    <meta content="id" name="geo.country">
+    <meta http-equiv="content-language" content="id-ID">
+    <meta content="Indonesia" name="geo.placename">
+    <meta property="og:type" content="website">
+    <style amp-custom>
+      :root {
+  --primary-color: #ffe81a;
+  --secondary-color: #c6c900;
+  --accent-color: #fcff5c;
+  --text-color: #eafff7;
+  --background-color: #000b08;
+}
+
+/* Body */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, var(--background-color), #02150f);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container */
+.sitrof {
+  background-color: rgba(0, 15, 10, 0.85);
+  border: 2px solid var(--primary-color);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0 35px rgba(251, 255, 0, 0.6);
+  animation: simple-pulse 2s infinite alternate;
+}
+
+@keyframes simple-pulse {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.04); }
+}
+
+/* Header */
+header {
+  text-align: center;
+}
+
+header amp-anim {
+  border: 4px solid var(--primary-color);
+  border-radius: 20px;
+  box-shadow: 0 0 22px rgba(255, 238, 0, 0.75);
+  margin: 0 auto;
+  animation: pulse-border 2.2s infinite;
+}
+
+header amp-anim:hover {
+  animation: grow-pulse 1s infinite;
+}
+
+/* Border neon */
+@keyframes pulse-border {
+  0% { 
+    border-color: var(--primary-color);
+    box-shadow: 0 0 22px rgba(255, 238, 0, 0.75);
+  }
+  50% {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 35px rgba(244, 255, 92, 0.9);
+  }
+  100% {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 22px rgba(255, 238, 0, 0.75);
+  }
+}
+
+@keyframes grow-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+  100% { transform: scale(1); }
+}
+
+/* Button base */
+.btn {
+  display: block;
+  width: 90%;
+  max-width: 280px;
+  margin: 12px auto;
+  padding: 12px 20px;
+  color: #eafff7;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.35s ease;
+  animation: float 3s ease-in-out infinite;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.btn:hover {
+  transform: translateY(-5px) scale(1.04);
+  letter-spacing: 4px;
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.95);
+  box-shadow:
+    0 0 12px #e8ff1a,
+    0 0 18px #c6c900,
+    0 0 26px rgba(0, 255, 170, 0.45);
+}
+
+/* LOGIN */
+.btn.login {
+  background: linear-gradient(45deg, #000000, #043d2b);
+  background-size: 200% 200%;
+  box-shadow:
+    0 0 10px #e8ff1a,
+    0 0 18px #c6c900,
+    0 0 28px rgba(0, 255, 170, 0.4);
+  animation: gradient-pulse 3s ease infinite;
+  border-image: linear-gradient(45deg, #e8ff1a, #f4ff5c) 1;
+}
+
+/* DAFTAR */
+.btn.daftar {
+  background: linear-gradient(45deg, #000000, #3d3304);
+  background-size: 200% 200%;
+  box-shadow:
+    0 0 12px #f4ff5c,
+    0 0 22px #e8ff1a,
+    0 0 32px rgba(0, 255, 170, 0.55);
+  animation: gradient-pulse 3s ease infinite;
+  border-image: linear-gradient(45deg, #f4ff5c, #e8ff1a) 1;
+}
+
+/* BONUS */
+.btn.bonus {
+  background: linear-gradient(45deg, #000000, #3d3304);
+  background-size: 200% 200%;
+  box-shadow:
+    0 0 10px #c6c900,
+    0 0 18px #e8ff1a,
+    0 0 28px rgba(0, 255, 170, 0.4);
+  animation: gradient-pulse 3s ease infinite;
+  border-image: linear-gradient(45deg, #c6c900, #f4ff5c) 1;
+}
+
+/* Shine */
+.btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(92, 255, 214, 0.85),
+    transparent
+  );
+  animation: shine-slide 3s infinite;
+}
+
+/* Divider */
+hr {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #e8ff1a, transparent);
+  margin: 5px 0;
+}
+
+/* Welcome */
+.welcome {
+  text-align: center;
+  padding: 10px;
+}
+
+.welcome h3 {
+  color: #eafff7;
+  font-size: 10px;
+  margin: 0;
+  padding: 10px;
+  animation: shine 2s infinite;
+  text-shadow: 0 0 12px rgba(0, 255, 170, 0.8);
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #7fffe0;
+}
+
+.footer a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: var(--accent-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .sitrof {
+    margin: 10px;
+    padding: 15px;
+  }
+  .btn {
+    font-size: 14px;
+    padding: 12px 20px;
+  }
+  .welcome h3 {
+    font-size: 10px;
+  }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sitrof">
+        <header>
+          <a target="_blank" href="https://norakle.com/" rel="noopener">
+            <amp-anim src="https://www.upload.ee/image/19216569/Starlight_Princess_jackpot_celebration.png" width="300" height="300" layout="fixed" alt="IRONSLOT"></amp-anim>
+          </a>
+        </header>
+        <main>
+          <a class="btn login" href="https://t.ly/-I0Si" target="_blank" rel="noopener">DAFTAR</a>
+          <a class="btn daftar" href="https://t.ly/-I0Si" target="_blank" rel="noopener">LOGIN</a>
+          <a class="btn bonus" href="https://t.ly/-I0Si" target="_blank" rel="noopener">RTP GACOR IRONSLOT</a>
+        </main>
+        <hr>
+        <div class="welcome">
+          <h3>&copy; SEO IRONSLOT</h3>
+        </div>
+        <hr>
+      </div>
+      <br>
+      <div class="footer">
+        <span>&copy;2026. IRONSLOT</a>. ✓ All Rights Reserved.</span>
+        </div>
+    </div>
+  </body>
+  </html>
